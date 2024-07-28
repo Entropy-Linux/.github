@@ -5,9 +5,9 @@ Created by Szmelc.INC, it's more of a experimental platform / proving grounds fo
 We're ambitiously trying to build a whole new ecosystem around it, so expect ongoing changes. (and some DIY on your part) \
 Be ready for some unique surprises as it doesn't always play nice.
 
-### [SourceForge](https://sourceforge.net/projects/entropy-linux/) stats:
+**[SourceForge](https://sourceforge.net/projects/entropy-linux/) downloads:** \
 <a href="https://sourceforge.net/projects/entropy-linux/files/latest/download">
-  <img src="https://img.shields.io/sourceforge/dt/entropy-linux.svg" width="100" height="20" alt="Download Entropy Linux">
+  <img src="https://img.shields.io/sourceforge/dt/entropy-linux.svg" width="150" height="25" alt="Download Entropy Linux">
 </a>
 
 ### Alpha v6
