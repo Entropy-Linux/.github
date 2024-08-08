@@ -18,5 +18,8 @@ Some of its best features include OCR to clipboard, ROCm Installer, integrated t
   <img src="https://img.shields.io/sourceforge/dt/entropy-linux.svg" width="150" height="25" alt="Download Entropy Linux">
 </a>
 
+[Main page (carrd.co)](https://entropy-linux.carrd.co/)
+
+
 ### Alpha v6
 ![image](https://github.com/user-attachments/assets/243a06c8-79ef-4e37-878b-8edf6bb6d462)
