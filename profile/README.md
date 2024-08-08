@@ -18,6 +18,8 @@ Some of its best features include OCR to clipboard, ROCm Installer, integrated t
   <img src="https://img.shields.io/sourceforge/dt/entropy-linux.svg" width="150" height="25" alt="Download Entropy Linux">
 </a>
 
+[![GNU-Szmelc](https://img.shields.io/badge/GNU--Szmelc-000000?style=for-the-badge&logo=gnu&logoColor=lime)](https://github.com/GNU-Szmelc) 
+
 [Main page (carrd.co)](https://entropy-linux.carrd.co/)
 
 
