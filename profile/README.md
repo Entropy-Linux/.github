@@ -1,4 +1,4 @@
-# Entropy Linux
+# 𝕰𝖓𝖙𝖗𝖔𝖕𝖞 𝕷𝖎𝖓𝖚𝖝
 > Entropy Linux, based on MX23-Minimal, \
 is strange and slightly buggy OS with dedicated built-in software (szmelc) and extensive AMD™ hardware support. \
 It features a global dark theme with unique aesthetics and style. \
