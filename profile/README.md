@@ -25,3 +25,6 @@ Some of its best features include OCR to clipboard, ROCm Installer, integrated t
 
 ### Alpha v6
 ![image](https://github.com/user-attachments/assets/243a06c8-79ef-4e37-878b-8edf6bb6d462)
+
+# WARNING!
+## All new releases (.iso) will be hosted on sourceforge.net due to GitHub limiting file size to 2GB
