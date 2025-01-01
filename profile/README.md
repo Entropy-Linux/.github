@@ -89,6 +89,8 @@ It might need some tweaking to fit your flow, but that’s part of the fun.
 ---
 
 ## Screenshots
+### Alpha v9
+![image](https://github.com/user-attachments/assets/62d27fbb-2685-4f1b-9ec5-5d3265c0b741)
 
 ### Alpha v8
 ![image](https://github.com/user-attachments/assets/3ccd998e-79b0-4203-88ca-b190eb06a020)
