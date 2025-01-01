@@ -44,6 +44,10 @@ It might need some tweaking to fit your flow, but that’s part of the fun.
 
 ## **[Alpha]**
 
+#### `Alpha v9 [Upshot Knothole]`
+**Unified Update** - **[01/01/2025]**
+> Major improvements to szmelc, accesibility, looks, configs and more!
+
 #### `Alpha v8 [Ivy]`
 **Bugfix Update** - **[12/11/2024]**  
 > Major Bugfixes, APT config, minor improvements to szmelc, Root .config
