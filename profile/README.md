@@ -6,7 +6,7 @@
 #### ***Based on Arch. Built for Power Users and Sysadmins.***  
 > Entropy is designed for those who love to tinker and fine-tune their system. \
 It’s optimized for AMD™ hardware, features a global dark theme, and includes powerful tools for advanced users. \
-Crafted by one developer and a few friends, it’s raw and unpolished— \
+Crafted by two head developers and a their squad, it’s raw and unpolished— \
 perfect for those who want to learn, experiment, and build their ideal setup.
 
 #### ***Why Entropy?***  
