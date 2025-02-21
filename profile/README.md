@@ -30,7 +30,7 @@ It might require some tweaking to fit your workflow, but that’s part of the fu
 [![Download Entropy Linux](https://img.shields.io/sourceforge/dm/entropy-linux.svg)](https://sourceforge.net/projects/entropy-linux/files/latest/download) \
 [![Download Entropy Linux](https://img.shields.io/sourceforge/dw/entropy-linux.svg)](https://sourceforge.net/projects/entropy-linux/files/latest/download)
 
-[![GNU-Szmelc](https://img.shields.io/badge/GNU--Szmelc-000000?style=for-the-badge&logo=gnu&logoColor=lime)](https://github.com/GNU-Szmelc) 
+[![Szmelc-INC](https://img.shields.io/badge/GNU--Szmelc-000000?style=for-the-badge&logo=gnu&logoColor=lime)](https://github.com/Szmelc-INC) 
 ### [Main page (carrd.co)](https://entropy-linux.carrd.co/)
 
 ---
